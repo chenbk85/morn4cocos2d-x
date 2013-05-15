@@ -1,0 +1,12 @@
+<lib>
+  <bitmapdata class="png.other.battle" file="E:\工具\morn-master\demo\morn\assets\other\battle.png" compression="false" quality="80" create="13652511320001352"/>
+  <bitmapdata class="png.other.btn_red" file="E:\工具\morn-master\demo\morn\assets\other\btn_red.png" compression="false" quality="80" create="13652511320006628"/>
+  <bitmapdata class="png.other.btn_tab" file="E:\工具\morn-master\demo\morn\assets\other\btn_tab.png" compression="false" quality="80" create="13652511320001356"/>
+  <bitmapdata class="png.other.btn_yellow" file="E:\工具\morn-master\demo\morn\assets\other\btn_yellow.png" compression="false" quality="80" create="13652511320001397"/>
+  <bitmapdata class="png.other.clip_selectBox" file="E:\工具\morn-master\demo\morn\assets\other\clip_selectBox.png" compression="false" quality="80" create="1365251132000188"/>
+  <bitmapdata class="png.other.info" file="E:\工具\morn-master\demo\morn\assets\other\info.png" compression="false" quality="80" create="136525113200033191"/>
+  <bitmapdata class="png.other.slave" file="E:\工具\morn-master\demo\morn\assets\other\slave.png" compression="false" quality="80" create="13652511320001293"/>
+  <bitmapdata class="png.other.streng" file="E:\工具\morn-master\demo\morn\assets\other\streng.png" compression="false" quality="80" create="13652511320001094"/>
+  <bitmapdata class="png.other.team" file="E:\工具\morn-master\demo\morn\assets\other\team.png" compression="false" quality="80" create="136525113200010066"/>
+  <bitmapdata class="png.other.touxiang" file="E:\工具\morn-master\demo\morn\assets\other\touxiang.png" compression="false" quality="80" create="136525113200024642"/>
+</lib>

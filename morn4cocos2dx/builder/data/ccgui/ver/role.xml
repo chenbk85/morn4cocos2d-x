@@ -1,0 +1,36 @@
+<lib>
+  <bitmapdata class="png.role.bg_pick_bag" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\bg_pick_bag.png" compression="false" quality="80" create="13684099256553157"/>
+  <bitmapdata class="png.role.bg_role_bottom" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\bg_role_bottom.png" compression="false" quality="80" create="136840992563018743"/>
+  <bitmapdata class="png.role.bg_role_pic1" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\bg_role_pic1.png" compression="false" quality="80" create="13684099256598775"/>
+  <bitmapdata class="png.role.bg_role_pic2" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\bg_role_pic2.png" compression="false" quality="80" create="13684099256679677"/>
+  <bitmapdata class="png.role.bg_role_player" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\bg_role_player.png" compression="false" quality="80" create="136840992566244743"/>
+  <bitmapdata class="png.role.btn_common_close" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_common_close.png" compression="false" quality="80" create="13684099256936103"/>
+  <bitmapdata class="png.role.btn_common_red" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_common_red.png" compression="false" quality="80" create="13684099256656286"/>
+  <bitmapdata class="png.role.btn_role_clean" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_clean.png" compression="false" quality="80" create="136840992568011474"/>
+  <bitmapdata class="png.role.btn_role_energyNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_energyNor.png" compression="false" quality="80" create="13684099256288378"/>
+  <bitmapdata class="png.role.btn_role_energySelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_energySelect.png" compression="false" quality="80" create="13684099256578762"/>
+  <bitmapdata class="png.role.btn_role_forgeNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_forgeNor.png" compression="false" quality="80" create="13684099256538831"/>
+  <bitmapdata class="png.role.btn_role_forgeSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_forgeSelect.png" compression="false" quality="80" create="13684099257169075"/>
+  <bitmapdata class="png.role.btn_role_jewel" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_jewel.png" compression="false" quality="80" create="136840992567111578"/>
+  <bitmapdata class="png.role.btn_role_natureNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_natureNor.png" compression="false" quality="80" create="13684099256418401"/>
+  <bitmapdata class="png.role.btn_role_natureSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_natureSelect.png" compression="false" quality="80" create="13684099257058782"/>
+  <bitmapdata class="png.role.btn_role_pageNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_pageNor.png" compression="false" quality="80" create="13684099256883345"/>
+  <bitmapdata class="png.role.btn_role_pageSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_pageSelect.png" compression="false" quality="80" create="13684099256733659"/>
+  <bitmapdata class="png.role.btn_role_playerNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_playerNor.png" compression="false" quality="80" create="13684099256358025"/>
+  <bitmapdata class="png.role.btn_role_playerSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_playerSelect.png" compression="false" quality="80" create="13684099256968430"/>
+  <bitmapdata class="png.role.btn_role_settingNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_settingNor.png" compression="false" quality="80" create="13684099256998235"/>
+  <bitmapdata class="png.role.btn_role_settingSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_settingSelect.png" compression="false" quality="80" create="13684099256378600"/>
+  <bitmapdata class="png.role.btn_role_skillNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_skillNor.png" compression="false" quality="80" create="13684099257028496"/>
+  <bitmapdata class="png.role.btn_role_skillSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_skillSelect.png" compression="false" quality="80" create="13684099256768860"/>
+  <bitmapdata class="png.role.btn_role_soulNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_soulNor.png" compression="false" quality="80" create="13684099257118402"/>
+  <bitmapdata class="png.role.btn_role_soulSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_soulSelect.png" compression="false" quality="80" create="13684099256838754"/>
+  <bitmapdata class="png.role.btn_role_strengthen" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_strengthen.png" compression="false" quality="80" create="136840992565112122"/>
+  <bitmapdata class="png.role.btn_role_taskNor" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_taskNor.png" compression="false" quality="80" create="13684099256488300"/>
+  <bitmapdata class="png.role.btn_role_taskSelect" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\btn_role_taskSelect.png" compression="false" quality="80" create="13684099257138686"/>
+  <bitmapdata class="png.role.grid_common_item" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\grid_common_item.png" compression="false" quality="80" create="13684099256867666"/>
+  <bitmapdata class="png.role.lien_role_cut" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\lien_role_cut.png" compression="false" quality="80" create="13684099257083570"/>
+  <bitmapdata class="png.role.text_commom_bg" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\text_commom_bg.png" compression="false" quality="80" create="13684099256463303"/>
+  <bitmapdata class="png.role.ui_role_fightPower" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\ui_role_fightPower.png" compression="false" quality="80" create="136840992562513927"/>
+  <bitmapdata class="png.role.ui_role_name" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\ui_role_name.png" compression="false" quality="80" create="13684099256339248"/>
+  <bitmapdata class="png.role.win_role_bg" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\role\win_role_bg.png" compression="false" quality="80" create="136840992571911019"/>
+</lib>

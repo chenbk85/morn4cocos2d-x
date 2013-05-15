@@ -1,0 +1,17 @@
+<lib>
+  <bitmapdata class="png.uicontrol.3" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\3.png" compression="false" quality="80" create="13685311646013146"/>
+  <bitmapdata class="png.uicontrol.bg_number_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\bg_number_back.png" compression="false" quality="80" create="13685311646314586"/>
+  <bitmapdata class="png.uicontrol.btn_sub" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_sub.png" compression="false" quality="80" create="13685311646163479"/>
+  <bitmapdata class="png.uicontrol.btn_ui_add" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_add.png" compression="false" quality="80" create="13685311646283566"/>
+  <bitmapdata class="png.uicontrol.btn_ui_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_back.png" compression="false" quality="80" create="13685311646043365"/>
+  <bitmapdata class="png.uicontrol.btn_ui_click" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_click.png" compression="false" quality="80" create="13685311646073281"/>
+  <bitmapdata class="png.uicontrol.btn_ui_clickme" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_clickme.png" compression="false" quality="80" create="13685311646142817"/>
+  <bitmapdata class="png.uicontrol.btn_ui_close" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_close.png" compression="false" quality="80" create="13685311646225025"/>
+  <bitmapdata class="png.uicontrol.btn_ui_scroll" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_scroll.png" compression="false" quality="80" create="13685311645993487"/>
+  <bitmapdata class="png.uicontrol.btn_ui_select1" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_select1.png" compression="false" quality="80" create="13685311646103546"/>
+  <bitmapdata class="png.uicontrol.btn_ui_select2" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\btn_ui_select2.png" compression="false" quality="80" create="13685311646193094"/>
+  <bitmapdata class="png.uicontrol.s9_bag_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\s9_bag_back.png" compression="false" quality="80" create="13685311645953911"/>
+  <bitmapdata class="png.uicontrol.s9_bag_frame" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\s9_bag_frame.png" compression="false" quality="80" create="13685311645913208"/>
+  <bitmapdata class="png.uicontrol.s9_number_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\s9_number_back.png" compression="false" quality="80" create="13685311646352867"/>
+  <bitmapdata class="png.uicontrol.s9_ui_bg" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\uicontrol\s9_ui_bg.png" compression="false" quality="80" create="13685311646254290"/>
+</lib>

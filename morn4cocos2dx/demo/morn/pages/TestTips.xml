@@ -1,0 +1,6 @@
+<View sceneWidth="400" sceneHeight="300" sceneColor="0xffffff" sceneBg="" layers="2,1,1;1,1,1">
+  <Label text="label" x="131" y="61" layer="1" var="label" width="49" height="22"/>
+  <Button label="label" skin="png.comp.button" x="70" y="129" layer="1"/>
+  <Button label="label" skin="png.comp.btn_close" x="309" y="174" layer="1"/>
+  <RadioGroup labels="label1,label2" skin="png.comp.radiogroup" x="38" y="216" layer="1"/>
+</View>

@@ -1,0 +1,23 @@
+<lib>
+  <bitmapdata class="png.mainscene.btn_chat" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\btn_chat.png" compression="false" quality="80" create="13684271828825258"/>
+  <bitmapdata class="png.mainscene.btn_gua" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\btn_gua.png" compression="false" quality="80" create="13684271828218583"/>
+  <bitmapdata class="png.mainscene.iamge_chat_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\iamge_chat_back.png" compression="false" quality="80" create="13684271828002827"/>
+  <bitmapdata class="png.mainscene.iamge_map" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\iamge_map.png" compression="false" quality="80" create="13684271827919854"/>
+  <bitmapdata class="png.mainscene.image_ad" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_ad.png" compression="false" quality="80" create="13684271828324446"/>
+  <bitmapdata class="png.mainscene.image_main_btn" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_btn.png" compression="false" quality="80" create="136842718285022029"/>
+  <bitmapdata class="png.mainscene.image_main_joystick" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_joystick.png" compression="false" quality="80" create="136850294445642659"/>
+  <bitmapdata class="png.mainscene.image_main_level" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_level.png" compression="false" quality="80" create="13684271828604159"/>
+  <bitmapdata class="png.mainscene.image_main_pk" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_pk.png" compression="false" quality="80" create="13684271828285936"/>
+  <bitmapdata class="png.mainscene.image_main_shop" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_shop.png" compression="false" quality="80" create="136842718280614051"/>
+  <bitmapdata class="png.mainscene.image_main_stickinner" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_stickinner.png" compression="false" quality="80" create="136850294445214478"/>
+  <bitmapdata class="png.mainscene.image_main_task" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_main_task.png" compression="false" quality="80" create="13684271828877177"/>
+  <bitmapdata class="png.mainscene.image_map_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_map_back.png" compression="false" quality="80" create="13684271828169856"/>
+  <bitmapdata class="png.mainscene.image_qie" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_qie.png" compression="false" quality="80" create="13684271828135008"/>
+  <bitmapdata class="png.mainscene.image_role_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\image_role_back.png" compression="false" quality="80" create="136842718279415844"/>
+  <bitmapdata class="png.mainscene.progress_angry_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_angry_back.png" compression="false" quality="80" create="13684271828782906"/>
+  <bitmapdata class="png.mainscene.progress_angry_fore" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_angry_fore.png" compression="false" quality="80" create="13684271828393705"/>
+  <bitmapdata class="png.mainscene.progress_exp_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_exp_back.png" compression="false" quality="80" create="13684271828252922"/>
+  <bitmapdata class="png.mainscene.progress_exp_fore" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_exp_fore.png" compression="false" quality="80" create="13684271828683031"/>
+  <bitmapdata class="png.mainscene.progress_hp_back" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_hp_back.png" compression="false" quality="80" create="13684271827972887"/>
+  <bitmapdata class="png.mainscene.progress_hp_fore" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\mainscene\progress_hp_fore.png" compression="false" quality="80" create="13684271827883362"/>
+</lib>

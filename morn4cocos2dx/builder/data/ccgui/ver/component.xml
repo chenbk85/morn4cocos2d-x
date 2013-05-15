@@ -1,0 +1,29 @@
+<lib>
+  <bitmapdata class="png.component.bg" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\bg.png" compression="false" quality="80" create="1365251132000473"/>
+  <bitmapdata class="png.component.blank" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\blank.png" compression="false" quality="80" create="1365251132000933"/>
+  <bitmapdata class="png.component.btn3_close" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\btn3_close.png" compression="false" quality="80" create="1365251132000938"/>
+  <bitmapdata class="png.component.button" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\button.png" compression="false" quality="80" create="1365251132000846"/>
+  <bitmapdata class="png.component.checkbox" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\checkbox.png" compression="false" quality="80" create="1365251132000351"/>
+  <bitmapdata class="png.component.clip_num" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\clip_num.png" compression="false" quality="80" create="13652511320007364"/>
+  <bitmapdata class="png.component.combobox" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\combobox.png" compression="false" quality="80" create="1365251132000634"/>
+  <bitmapdata class="png.component.hscroll$bar" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hscroll$bar.png" compression="false" quality="80" create="13652511320001339"/>
+  <bitmapdata class="png.component.hscroll$down" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hscroll$down.png" compression="false" quality="80" create="13652511320001745"/>
+  <bitmapdata class="png.component.hscroll$up" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hscroll$up.png" compression="false" quality="80" create="13652511320001684"/>
+  <bitmapdata class="png.component.hscroll" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hscroll.png" compression="false" quality="80" create="13652511320002830"/>
+  <bitmapdata class="png.component.hslider$bar" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hslider$bar.png" compression="false" quality="80" create="13652511320001248"/>
+  <bitmapdata class="png.component.hslider" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\hslider.png" compression="false" quality="80" create="13652511320002913"/>
+  <bitmapdata class="png.component.image" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\image.png" compression="false" quality="80" create="136525113200061202"/>
+  <bitmapdata class="png.component.label" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\label.png" compression="false" quality="80" create="13652511320002909"/>
+  <bitmapdata class="png.component.linkbutton" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\linkbutton.png" compression="false" quality="80" create="13652511320002909"/>
+  <bitmapdata class="png.component.progress$bar" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\progress$bar.png" compression="false" quality="80" create="1365251132000303"/>
+  <bitmapdata class="png.component.progress" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\progress.png" compression="false" quality="80" create="1365251132000280"/>
+  <bitmapdata class="png.component.radio" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\radio.png" compression="false" quality="80" create="13652511320001096"/>
+  <bitmapdata class="png.component.radiogroup" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\radiogroup.png" compression="false" quality="80" create="13652511320001096"/>
+  <bitmapdata class="png.component.tab" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\tab.png" compression="false" quality="80" create="13652511320001238"/>
+  <bitmapdata class="png.component.textarea" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\textarea.png" compression="false" quality="80" create="13652511320002955"/>
+  <bitmapdata class="png.component.textinput" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\textinput.png" compression="false" quality="80" create="13652511320002955"/>
+  <bitmapdata class="png.component.vscroll$bar" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\vscroll$bar.png" compression="false" quality="80" create="1365251132000450"/>
+  <bitmapdata class="png.component.vscroll$down" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\vscroll$down.png" compression="false" quality="80" create="1365251132000736"/>
+  <bitmapdata class="png.component.vscroll$up" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\vscroll$up.png" compression="false" quality="80" create="1365251132000780"/>
+  <bitmapdata class="png.component.vscroll" file="E:\SVN\branch\0.0.1.0\samples\Lua\HelloLua\proj.win32\morn\morn\assets\component\vscroll.png" compression="false" quality="80" create="13652511320002825"/>
+</lib>
